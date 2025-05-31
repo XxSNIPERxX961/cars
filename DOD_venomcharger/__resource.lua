@@ -5,7 +5,11 @@ files {
     'carvariations.meta',
     'carcols.meta',
     'handling.meta',
-    'vehiclelayouts.meta',    -- Not Required
+    'vehiclelayouts.meta',
+    'audioconfig/dchallengerhellcat_game.dat151.rel',
+    'audioconfig/dchallengerhellcat_sounds.dat54.rel',
+    'sfx/dlc_dchallengerhellcat/dchallengerhellcat.awc',
+    'sfx/dlc_dchallengerhellcat/dchallengerhellcat_npc.awc'
 }
 
 data_file 'HANDLING_FILE' 'handling.meta'
